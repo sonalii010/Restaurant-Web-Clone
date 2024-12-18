@@ -1,0 +1,85 @@
+/* #8D0B41
+#D39D55
+#D6CFB4
+#FFF8E6 */
+
+.navbar-brand {
+    font-family: "Ole", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: black;
+  }
+  
+  .logo {
+    padding: 5px;
+  }
+  
+  #navbarsExample04 {
+    color: black;
+  }
+  
+  .image {
+    width: 100%;
+    height: 600px;
+    background-image: url('home.jpg');
+    background-size: cover;
+    /* Ensures the image covers the entire div */
+    background-repeat: no-repeat;
+    /* Prevents the image from repeating */
+    background-position: center;
+  }
+  
+  .text {
+    /* border-radius: 2px; */
+    margin: 1px;
+    font-size: 60px;
+    color: #e8ddc2;
+    padding: 17% 5%;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+  }
+  
+  .op {
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+  }
+  
+  .hello {
+    background-color: white;
+    margin-bottom: -50px;
+  }
+  
+  h1 {
+    color: #a17233;
+  
+  }
+  align-items-center {
+    -ms-flex-align: center !important;
+    align-items: center !important;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+  
+ 
+  
+  .sep {
+    display: flex;
+    flex-direction: row;
+  
+  }
+  
+  .menu {
+    text-align: center;
+  
+  }

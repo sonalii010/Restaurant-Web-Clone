@@ -1,0 +1,27 @@
+body{  
+    /* background-image: linear-gradient(90deg, white, lightgreen, darkblue); */
+    background-color: #D6CFB4;
+    background-image: url("/background.jpg");
+
+}
+.top{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+.container{
+    align-items: center;
+    width:50%;
+    margin:auto;
+    padding-top:190px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+background-color: #ffffff;
+}
+.bg{
+    padding:15px;
+/* border-radius: 20px; */
+    margin-top: 20px;
+}
